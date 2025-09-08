@@ -45,8 +45,8 @@
 - **Objetivo:** Entender a frequência das respostas de `Overall Satisfaction` e, crucialmente, **classificar cada respondente** em Detrator, Passivo ou Promotor para calcular e visualizar a composição do Net Promoter Score (NPS).
 - **Variáveis:** `Overall Satisfaction`, `NPS Category`
 - **Gráfico & Tabela:**
-    
-    ![01 Distribuição das Principais Métricas de Satisfação.png](01_Distribuio_das_Principais_Mtricas_de_Satisfao.png)
+
+<img src="/images/01_Distribuio_das_Principais_Mtricas_de_Satisfao.png" alt="Distribuição da satisfação e categorias nps" width="500">
     
 - **Interpretação:**
     - **Satisfação Geral:** A percepção sobre o serviço é majoritariamente positiva. A barra de `Strongly Agree` (Concordo Totalmente) é a maior de todas, seguida por `Agree` (Concordo). As respostas negativas (`Disagree`, `Strongly Disagree`) são significativamente menores, indicando que as experiências ruins são uma minoria.
@@ -57,9 +57,8 @@
 - **Objetivo:** Calcular o score NPS final para ter um único número que represente a "lealdade" do cliente. Em seguida, investigar como a composição das categorias NPS (Promotores, Passivos, Detratores) evoluiu ao longo dos anos disponíveis no dataset.
 - **Variáveis:** `NPS Category` , `Year`
 - **Gráfico & Tabela:**
-    
-    ![2_Proporção_Categorias_NPS_por_Ano.png](2_Proporo_Categorias_NPS_por_Ano.png)
-    
+
+  <img src="/images/02_Proporo_Categorias_NPS_por_Ano.png" alt="Proporção de categorias nps por ano" width="500">
 
 | Métrica | Valor |
 | --- | --- |
@@ -79,8 +78,7 @@
 - **Variáveis:** `NPS Category` e `Agent - Job Knowledge`.
 - **Gráfico & Tabela:**
     
-    ![03.1_Impacto_Conhecimento_Agente_Categoria_NPS.png](03.1_Impacto_Conhecimento_Agente_Categoria_NPS.png)
-    
+<img src="/images/03.1_Impacto_Conhecimento_Agente_Categoria_NPS.png" alt="Impacto do conhecimento do agente na categoria nps" width="500">    
 
 | **Agent - Job Knowledge** | **Strongly Disagree** | **Disagree** | **Neutral** | **Agree** | **Strongly Agree** |
 | --- | --- | --- | --- | --- | --- |
@@ -99,8 +97,7 @@
 - **Variáveis:** `NPS Category` e `Agent - Customer Service`.
 - **Gráfico & Tabela:**
     
-    ![03.2_Impacto_Atendimento_Agente_Categoria_NPS.png](03.2_Impacto_Atendimento_Agente_Categoria_NPS.png)
-    
+<img src="/images/03.2_Impacto_Atendimento_Agente_Categoria_NPS.png" alt="Impacto do atendimento do agente na categoria nps" width="500">    
 
 | **Agent - Customer Service** | **Strongly Disagree** | **Disagree** | **Neutral** | **Agree** | **Strongly Agree** |
 | --- | --- | --- | --- | --- | --- |
@@ -121,8 +118,7 @@
 - **Variáveis Analisadas:** `NPS Category` e `Wait Time`.
 - **Gráfico & Tabela:**
     
-    ![03.3_Impacto_Tempo_Espera_Catrgoria_NPS.png](03.3_Impacto_Tempo_Espera_Catrgoria_NPS.png)
-    
+<img src="/images/03.3_Impacto_Tempo_Espera_Catrgoria_NPS.png" alt="Impacto do tempo de espera na categoria nps" width="500">    
 
 | **Wait Time** | **Strongly Disagree** | **Disagree** | **Neutral** | **Agree** | **Strongly Agree** |
 | --- | --- | --- | --- | --- | --- |
@@ -137,7 +133,7 @@
 
 - O que temos até agora?
     
-    ![03.4_Prioridades_Melhorias.png](03.4_Prioridades_Melhorias.png)
+<img src="/images/03.4_Prioridades_Melhorias.png" alt="Prioridades de melhoria e fatores que mais geram clientes detratores" width="500">    
     
 - **Insight**: **o tempo de espera é o segundo maior motivo de insatisfação**, quase empatado com a falta de conhecimento técnico. Isso significa que a jornada do cliente pode ser comprometida por um fator de processo (a fila) antes que o agente tenha qualquer chance de intervir. Um atendimento excelente pode não ser suficiente para reverter uma primeira impressão negativa causada por uma longa espera.
 
@@ -147,8 +143,7 @@
 - **Variáveis:** `Campaign`, `NPS Category`
 - **Gráfico & Tabela:**
     
-    ![04_Comparatico_Score_NPS_Campanha.png](04_Comparatico_Score_NPS_Campanha.png)
-    
+<img src="/images/04_Comparatico_Score_NPS_Campanha.png" alt="Comparativo de score NPS por campanha" width="500">        
 
 | **NPS Category** | **NPS Score** |
 | --- | --- |
@@ -171,8 +166,7 @@
 - **Variáveis Analisadas:** `Survey Language`, `NPS Category`
 - **Gráfico & Tabela:**
     
-    ![05.1_Comparativo_Score_NPS_Idioma.png](05.1_Comparativo_Score_NPS_Idioma.png)
-    
+<img src="/images/05.1_Comparativo_Score_NPS_Idioma.pngg" alt="Comparativo de score NPS por idioma" width="500">            
 
 | **NPS Category** | **NPS Score** |
 | --- | --- |
@@ -194,7 +188,7 @@
 - **Variáveis Analisadas:** `Survey Language`, `Overall Satisfaction`
 - **Gráfico & Tabela:**
     
-    ![05.2_Média_CSAT_Idioma.png](05.2_Mdia_CSAT_Idioma.png)
+<img src="/images/05.2_Mdia_CSAT_Idioma.png" alt="Média de satisfação geral CSAT por idioma" width="500">            
     
 - **Interpretação:**
     - **Consistência Operacional:** Todas as médias de satisfação (CSAT) estão muito próximas, variando apenas **0.30 pontos** entre o máximo (Espanhol, com 4.34) e o mínimo (Russo, com 4.04).
