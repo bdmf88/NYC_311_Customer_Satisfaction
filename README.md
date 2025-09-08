@@ -9,7 +9,7 @@
     - **Fonte:** https://catalog.data.gov/dataset/311-customer-satisfaction-survey
 
 - **Título e Objetivo da Análise: Análise de Performance e Satisfação do Cliente no Atendimento NYC311**
-    - Esta análise tem como objetivo principal explorar os dados da Pesquisa de Satisfação do Cliente (CSAT) do serviço NYC311 para extrair insights sobre a experiência do cidadão ao contatar o serviço público. Através da visualização e interpretação das respostas, buscaremos entender os fatores que mais impactam a satisfação dos usuários.
+    - Esta análise tem como objetivo principal explorar os dados da Pesquisa de Satisfação do Cliente (CSAT) do serviço NYC311 para extrair insights sobre a experiência do cidadão ao contatar o serviço público. Através da visualização e interpretação das respostas, buscamos entender os fatores que mais impactam a satisfação dos usuários.
 
 - **Dicionário de Variáveis (Colunas)**
 
