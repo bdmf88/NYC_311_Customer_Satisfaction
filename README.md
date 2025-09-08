@@ -46,7 +46,7 @@
 - **Variáveis:** `Overall Satisfaction`, `NPS Category`
 - **Gráfico & Tabela:**
 
-<img src="/images/01_Distribuio_das_Principais_Mtricas_de_Satisfao.png" alt="Distribuição da satisfação e categorias nps" width="600">
+<img src="/images/01_Distribuio_das_Principais_Mtricas_de_Satisfao.png" alt="Distribuição da satisfação e categorias nps" width="750">
     
 - **Interpretação:**
     - **Satisfação Geral:** A percepção sobre o serviço é majoritariamente positiva. A barra de `Strongly Agree` (Concordo Totalmente) é a maior de todas, seguida por `Agree` (Concordo). As respostas negativas (`Disagree`, `Strongly Disagree`) são significativamente menores, indicando que as experiências ruins são uma minoria.
